@@ -3,3 +3,5 @@ tomatoes
 cukes
 dough
 cheese
+cilantro
+salt
