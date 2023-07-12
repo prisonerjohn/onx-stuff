@@ -5,3 +5,4 @@ dough
 cheese
 cilantro
 sweet potatoes
+regular potatoes
