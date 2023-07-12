@@ -2,8 +2,6 @@
 
 THe title is ONX pizza things.
 
-## Subtitle
-
-### An even smaller title
+## An even smaller title
 
 Look for ingredients in the other file.
