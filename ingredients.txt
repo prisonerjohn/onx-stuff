@@ -4,4 +4,4 @@ cukes
 dough
 cheese
 cilantro
-salt
+potatoes
