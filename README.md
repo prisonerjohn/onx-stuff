@@ -4,6 +4,4 @@
 
 ### An even smaller title
 
-* pepperoni
-* cheese
-* gram with style
+Look for ingredients in the other file.
